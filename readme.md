@@ -15,5 +15,3 @@ When I get around to it I will put the specific assets I used for each map here.
 ## WIP maps are Work in Progress Maps.
 
 ### Farm North South
-
-Roofs went missing.  Will need to fix at some point
