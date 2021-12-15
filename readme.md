@@ -12,6 +12,4 @@ This hasn't been tested and may be a clusterfuck.  If you want to test it out wi
 
 When I get around to it I will put the specific assets I used for each map here.
 
-## WIP maps are Work in Progress Maps.
-
 ### Farm North South
