@@ -14,6 +14,12 @@ This hasn't been tested and may be a clusterfuck.  If you want to test it out wi
 
 The maps are listed in order that I "finished" them.  They all have roofs and excluding Farm North South all of them have multiple levels.  I do the walls and lighting in FoundryVTT which means the wall data could be messed up with an import to FoundryVTT.  There should be no lighting data.
 
+## Assets
+
+All the asset packs I have used are listed below with each map.
+
+I want to do a map that takes place inside a giant dead monster so if you know of any assets that include walls made of rotting flesh, pools of blood, and other such things then please contact me!
+
 ### Farm North South
 
 Farm land with a road running from the north to the south.
@@ -154,3 +160,11 @@ Second floor roofs (this will be just for the roofs of the buildings that are on
 #### Murder Mystery
 
 I have an idea for a murder mystery D&D adventure.  Currently the maps aren't started.  It will require some planning which I generally don't like to do.
+
+### Thanks
+
+Bailywiki for his tutorial videos about FoundryVTT and Levels.
+
+TheRipper93 for his FoundryVTT modules Levels, Better Roofs, Hurryup etc.
+
+Forgotten Adventures for creating amazing assets.
