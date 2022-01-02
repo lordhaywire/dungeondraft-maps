@@ -157,6 +157,10 @@ Second floor
 
 Second floor roofs (this will be just for the roofs of the buildings that are only one story)
 
+#### Fort on Hill
+
+Cliff Stone Volcanic C3 for "path" used for elevation
+
 #### Murder Mystery
 
 I have an idea for a murder mystery D&D adventure.  Currently the maps aren't started.  It will require some planning which I generally don't like to do.
