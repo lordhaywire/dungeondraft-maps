@@ -1,6 +1,6 @@
 # I still need someone to test out this github repository to make sure it works for another person.
 
-# DungeonDraft files for Lord Haywire's Large Crappy Maps
+# DungeonDraft files for Lord Haywire's Large Crappy Maps FoundryVTT Module
 
 These files require the use of Forgotten Adventures DungeonDraft assets, both version 2 and 3.  You have to buy them from Forgotten Adventures (I have no affilation with them) and make sure DungeonDraft knows you are using those assets for the specific maps.
 
@@ -9,6 +9,8 @@ Forgotten Adventures sells the assets through their [Patreon](https://www.patreo
 If you are watching me stream on [Twitch](https://www.twitch.tv/lordhaywire) then you can download the files I started working on at the beginning of the stream from the [streaming](https://github.com/lordhaywire/dungeondraft-maps/tree/streaming) branch.
 
 This hasn't been tested and may be a clusterfuck.  If you want to test it out with me then hit me up while I am streaming or join my [Discord](https://discord.gg/a6KzcJ9mnC).
+
+These maps are used in my [FoundryVTT module repository](https://github.com/lordhaywire/lh-largecrappymaps) which can also be found in the [FoundryVTT module directory](https://foundryvtt.com/packages/lh-largecrappymaps).
 
 ## Maps
 
