@@ -161,7 +161,49 @@ Second floor roofs (this will be just for the roofs of the buildings that are on
 
 #### Fort on Hill
 
+I believe the version number doesn't matter as long as it is higher then the version listed below but not to the next full version.  For example, if the asset is FA_Assets_A_v3.04 then I believe FA_Assets_a_v3.04 through v3.99 should work.
+
+FA_Assets_A_v3.04
+
+FA_Assets_B_v3.0
+
+FA_Assets_C_v3.01
+
+FA_Assets_D_v3.05
+
+FA_Assets_E_v3.04
+
+FA_Assets_F_v3.0
+
+FA_Assets_G_v3.02
+
+FA_Legacy_A_v3.02
+
+FA_Legacy_B_v3.0
+
+FA_Legacy_C_Winter_v3.0
+
+FA_Roofs_A_v3.0
+
+FA_Textures_Artificial_A_v3.0
+
+FA_Textures_Artificial_B_v3.0
+
+FA_Textures_Artificial_C_v3.0
+
+FA_Textures_Artificial_D_v3.0
+
+FA_Textures_Natural_A_v3.0
+
+FA_Textures_Natural_B_v3.0
+
+FA_Textures_Natural_C_v3.0
+
+##### Notes
+
 Cliff Stone Volcanic C3 for "path" used for elevation
+
+3rd Floor has a 20 foot height
 
 #### Murder Mystery
 
