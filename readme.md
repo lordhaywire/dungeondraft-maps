@@ -202,8 +202,24 @@ FA_Textures_Natural_C_v3.0
 ##### Notes
 
 Cliff Stone Volcanic C3 for "path" used for elevation
+Cliff Stone Volcanic C1 for water cavern?
 
 3rd Floor has a 20 foot height
+
+
+Water color:
+Deep Color
+R: 205
+G: 218
+B: 202
+A: 255
+Hex# cdd
+Shallow Color
+R: 227
+G: 162
+B: 10
+A: 255
+Hex: e3a
 
 #### Murder Mystery
 
