@@ -1,5 +1,3 @@
-# I still need someone to test out this github repository to make sure it works for another person.
-
 # DungeonDraft files for Lord Haywire's Large Crappy Maps FoundryVTT Module
 
 These files require the use of Forgotten Adventures DungeonDraft assets, both version 2 and 3.  You have to buy them from Forgotten Adventures (I have no affilation with them) and make sure DungeonDraft knows you are using those assets for the specific maps.
@@ -14,11 +12,11 @@ These maps are used in my [FoundryVTT module repository](https://github.com/lord
 
 ## Maps
 
-The maps are listed in order that I "finished" them.  They all have roofs and excluding Farm North South all of them have multiple levels.  I do the walls and lighting in FoundryVTT which means the wall data could be messed up with an import to FoundryVTT.  There should be no lighting data.
+The maps are listed in order that I "finished" them.  They all have roofs and excluding Farm North South all of them have multiple levels.  I do the walls and lighting in FoundryVTT.
 
 ## Assets
 
-All the asset packs I have used are listed below with each map.
+The Forgotten Adventures asset versions are listed with the map.
 
 I want to do a map that takes place inside a giant dead monster so if you know of any assets that include walls made of rotting flesh, pools of blood, and other such things then please contact me!
 
@@ -28,35 +26,7 @@ Farm land with a road running from the north to the south.
 
 #### Assets
 
-I believe the version number doesn't matter as long as it is higher then the version listed below but not to the next full version.  For example, if the asset is FA_Assets_A_v3.04 then I believe FA_Assets_a_v3.04 through v3.99 should work. 
-
-FA_Artificial_A_v2.08
-
-FA_Artificial_B_v2.08
-
-FA Artificial_Floors_A_v2.03
-
-FA_Artificial_Roofs_A_v2.02
-
-FA_Artificial_Terrains_A_v2.03
-
-FA_Artificial_Tiles_A_V2.03
-
-FA_Effects-and-Overlays_A_v2.0
-
-FA_Legacy_v2.02
-
-FA_Natural_A_v2.04
-
-FA_Natural_Patterns_A_v2.01
-
-FA_Natural_Terrains_A_v2.03
-
-FA_Natural_Tiles_A_v2.01
-
-FA_Starter_Pack_v2.0
-
-FA_Winter_A_v2.03
+Forgotten Adventures version 2.
 
 ### Western Town East West
 
@@ -64,44 +34,7 @@ An old west style town with an underground level.  There is a road running east 
 
 #### Assets
 
-I believe the version number doesn't matter as long as it is higher then the version listed below but not to the next full version.  For example, if the asset is FA_Assets_A_v3.04 then I believe FA_Assets_a_v3.04 through v3.99 should work.
-
-FA_Assets_A_v3.04
-
-FA_Assets_B_v3.0
-
-FA_Assets_C_v3.01
-
-FA_Assets_D_v3.05
-
-FA_Assets_E_v3.04
-
-FA_Assets_F_v3.0
-
-FA_Assets_G_v3.02
-
-FA_Legacy_A_v3.02
-
-FA_Legacy_B_v3.0
-
-FA_Legacy_C_Winter_v3.0
-
-FA_Roofs_A_v3.0
-
-FA_Textures_Artificial_A_v3.0
-
-FA_Textures_Artificial_B_v3.0
-
-FA_Textures_Artificial_C_v3.0
-
-FA_Textures_Artificial_D_v3.0
-
-FA_Textures_Natural_A_v3.0
-
-FA_Textures_Natural_B_v3.0
-
-FA_Textures_Natural_C_v3.0
-
+Forgotten Adventures version 3.
 
 ### Bridge Town North South
 
@@ -109,41 +42,13 @@ A bridge town with an underground level, and a level cut out in the middle with 
 
 #### Assets
 
-I believe the version number doesn't matter as long as it is higher then the version listed below but not to the next full version.  For example, if the asset is FA_Assets_A_v3.04 then I believe FA_Assets_a_v3.04 through v3.99 should work.
-
-FA_Artificial_A_v2.08
-
-FA_Artificial_B_v2.08
-
-FA Artificial_Floors_A_v2.03
-
-FA_Artificial_Roofs_A_v2.02
-
-FA_Artificial_Terrains_A_v2.03
-
-FA_Artificial_Tiles_A_V2.03
-
-FA_Effects-and-Overlays_A_v2.0
-
-FA_Legacy_v2.02
-
-FA_Natural_A_v2.04
-
-FA_Natural_Patterns_A_v2.01
-
-FA_Natural_Terrains_A_v2.03
-
-FA_Natural_Tiles_A_v2.01
-
-FA_Starter_Pack_v2.0
-
-FA_Winter_A_v2.03
+Forgotten Adventures version 3.
 
 ### Work in Progress (WIP)
 
 These maps can be found in the WIP folder.  They can be in any state of existance including missing completely.
 
-#### City Center
+### City Center
 
 Will be multiple levels.  Currently ground level is started.
 
@@ -159,71 +64,49 @@ Second floor
 
 Second floor roofs (this will be just for the roofs of the buildings that are only one story)
 
-#### Fort on Hill
+### Fort on Hill
 
-I believe the version number doesn't matter as long as it is higher then the version listed below but not to the next full version.  For example, if the asset is FA_Assets_A_v3.04 then I believe FA_Assets_a_v3.04 through v3.99 should work.
+#### Assets
 
-FA_Assets_A_v3.04
-
-FA_Assets_B_v3.0
-
-FA_Assets_C_v3.01
-
-FA_Assets_D_v3.05
-
-FA_Assets_E_v3.04
-
-FA_Assets_F_v3.0
-
-FA_Assets_G_v3.02
-
-FA_Legacy_A_v3.02
-
-FA_Legacy_B_v3.0
-
-FA_Legacy_C_Winter_v3.0
-
-FA_Roofs_A_v3.0
-
-FA_Textures_Artificial_A_v3.0
-
-FA_Textures_Artificial_B_v3.0
-
-FA_Textures_Artificial_C_v3.0
-
-FA_Textures_Artificial_D_v3.0
-
-FA_Textures_Natural_A_v3.0
-
-FA_Textures_Natural_B_v3.0
-
-FA_Textures_Natural_C_v3.0
+Forgotten Adventures version 3.
 
 ##### Notes
 
 Cliff Stone Volcanic C3 for "path" used for elevation
+
 Cliff Stone Volcanic C1 for water cavern?
 
 3rd Floor has a 20 foot height
 
-
 Water color:
+
 Deep Color
+
 R: 205
+
 G: 218
+
 B: 202
+
 A: 255
+
 Hex# cdd
+
 Shallow Color
+
 R: 227
+
 G: 162
+
 B: 10
+
 A: 255
+
 Hex: e3a
 
 #### Murder Mystery
 
-I have an idea for a murder mystery D&D adventure.  Currently the maps aren't started.  It will require some planning which I generally don't like to do.
+I have an idea for a murder mystery RPG adventure.  Currently the maps aren't started.  It will require some planning which I generally don't do.
 
 ### Thanks
 
