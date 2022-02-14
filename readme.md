@@ -42,7 +42,7 @@ A bridge town with an underground level, and a level cut out in the middle with 
 
 #### Assets
 
-Forgotten Adventures version 3.
+Forgotten Adventures version 2.
 
 ### Work in Progress (WIP)
 
@@ -109,9 +109,5 @@ Hex: e3a
 I have an idea for a murder mystery RPG adventure.  Currently the maps aren't started.  It will require some planning which I generally don't do.
 
 ### Thanks
-
-Bailywiki for his tutorial videos about FoundryVTT and Levels.
-
-TheRipper93 for his FoundryVTT modules Levels, Better Roofs, Hurryup etc.
 
 Forgotten Adventures for creating amazing assets.
